@@ -5,7 +5,7 @@ This project is a Raspberry Pi Zero 2W-based Smart Attendance System that combin
 
 The system was developed as an early-stage prototype before transitioning to a more advanced architecture. 
 
-Few novelty parts of the logic and code are not provided here. 
+Few novelty parts of the logic and code are not provided here. Server code and ML code are ot attached in the git repository.
 
 ---
 
