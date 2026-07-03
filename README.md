@@ -3,7 +3,9 @@
 ## 📌 Overview
 This project is a Raspberry Pi Zero 2W-based Smart Attendance System that combines facial recognition and RFID authentication for secure and automated attendance marking.
 
-The system was developed as an early-stage prototype before transitioning to a more advanced architecture.
+The system was developed as an early-stage prototype before transitioning to a more advanced architecture. 
+
+Few novelty parts of the logic and code are not provided here. 
 
 ---
 
